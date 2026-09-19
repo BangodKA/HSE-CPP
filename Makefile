@@ -18,7 +18,7 @@ clean:
 all: executables main.o float.o types.o template.o
 	clang++ ./$(OBJECT)/* -o ./$(EXECUTABLES)/main $(COMPILER_OPTS) $(OPTIMIZATIONS)
 
-main_only: executables main.o
+main: executables main.o
 	clang++ ./$(OBJECT)/main.o -o ./$(EXECUTABLES)/main $(COMPILER_OPTS) $(OPTIMIZATIONS)
 
 float: executables main.o float.o
