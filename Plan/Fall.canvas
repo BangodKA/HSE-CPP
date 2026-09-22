@@ -1,0 +1,1454 @@
+{
+  "nodes": [
+    {
+      "id": "g0102",
+      "type": "group",
+      "x": -5800,
+      "y": -1000,
+      "width": 1600,
+      "height": 2324,
+      "label": "Семинары 1-2"
+    },
+    {
+      "id": "g0304",
+      "type": "group",
+      "x": -4000,
+      "y": -1000,
+      "width": 1600,
+      "height": 2324,
+      "label": "Семинары 3-4"
+    },
+    {
+      "id": "g0506",
+      "type": "group",
+      "x": -2200,
+      "y": -1000,
+      "width": 1600,
+      "height": 2324,
+      "label": "Семинары 5-6"
+    },
+    {
+      "id": "g0708",
+      "type": "group",
+      "x": -400,
+      "y": -1000,
+      "width": 1600,
+      "height": 2324,
+      "label": "Семинары 7-8"
+    },
+    {
+      "id": "g0910",
+      "type": "group",
+      "x": 1400,
+      "y": -1000,
+      "width": 1600,
+      "height": 2324,
+      "label": "Семинары 9-10"
+    },
+    {
+      "id": "g1112",
+      "type": "group",
+      "x": 3200,
+      "y": -1000,
+      "width": 1600,
+      "height": 2324,
+      "label": "Семинары 11-12"
+    },
+    {
+      "id": "g1314",
+      "type": "group",
+      "x": 5000,
+      "y": -1000,
+      "width": 1600,
+      "height": 2324,
+      "label": "Семинары 13-14"
+    },
+    {
+      "id": "task_utf",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Декодер UTF-8 в wsring.md",
+      "x": -3104,
+      "y": 832,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "topic_strings",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Строки.md",
+      "x": -3120,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "topic_ptr",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Указатели и массивы.md",
+      "x": -3448,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "task_cache",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Кеширование для рекуррентной последовательности.md",
+      "x": -3672,
+      "y": 465,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "task_brackets",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Достроить скобочную последовательность до правильной.md",
+      "x": -3672,
+      "y": 105,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "70faa576377b862d",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/i-й символ в UTF-8 строке.md",
+      "x": -3104,
+      "y": 465,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "task_shift",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Циклический сдвиг массива.md",
+      "x": -3432,
+      "y": 105,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "note_matrix",
+      "type": "text",
+      "text": "- Поменять первый и последний элементы местами\n- Транспонировать матрицу",
+      "x": -3432,
+      "y": 465,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "task_split",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/split + strip для строк.md",
+      "x": -3104,
+      "y": 105,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "topic_float",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Плавающая точка и представление данных.md",
+      "x": -3930,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "h04",
+      "type": "text",
+      "text": "# Семинар 4\nСтроки и стандартная библиотека",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": -3140,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "fast04",
+      "type": "text",
+      "text": "- Кратко: базовые контейнеры\n- Строки и map/unordered_map подробнее",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": -3140,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "topic_stl",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Контейнеры (начало).md",
+      "x": -2888,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "topic_containers",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Контейнеры (продолжение).md",
+      "x": -2657,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "task_custom_hash",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Кастомные ключи unordered_map.md",
+      "x": -2641,
+      "y": 105,
+      "width": 166,
+      "height": 229,
+      "color": "6"
+    },
+    {
+      "id": "h03",
+      "type": "text",
+      "text": "# Семинар 3\nФункции, указатели и массивы",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": -3940,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "task_cycle",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Цикл на 256 итераций без операций сравнения.md",
+      "x": -4672,
+      "y": 75,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "topic_func",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Функции.md",
+      "x": -3688,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "fast03",
+      "type": "text",
+      "text": "- Кратко: синтаксис объявления функций\n- Основное: передача аргументов, время жизни, арифметика указателей, UB",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": -3940,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "topic_flow",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Поток исполнения.md",
+      "x": -4920,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "fast02",
+      "type": "text",
+      "text": "- Поток исполнения – кратко, чтобы всех в курс ввести\n- Основное: типы – тут важно про переполнение",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": -4940,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "topic_int",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Целые типы.md",
+      "x": -4688,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "eed5c2c0c8176005",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Битовые операции.md",
+      "x": -4456,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "task_overflow",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Проверка на беззнаковое и знаковое переполнение при операциях.md",
+      "x": -4672,
+      "y": 405,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "task_safe_cast1",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/safe_cast.md",
+      "subpath": "#一",
+      "x": -4672,
+      "y": 750,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "task_swap",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/swap.md",
+      "x": -4440,
+      "y": 75,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "task_popcnt",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/popcnt.md",
+      "x": -4440,
+      "y": 405,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "h01",
+      "type": "text",
+      "text": "# Семинар 1\nНастройка системы",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": -5740,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "h02",
+      "type": "text",
+      "text": "# Семинар 2\nПоток исполнения, числа, биты и floating point",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": -4940,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "topic_env",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Настройка окружения.md",
+      "x": -5372,
+      "y": -610,
+      "width": 313,
+      "height": 580
+    },
+    {
+      "id": "setup01",
+      "type": "text",
+      "text": "Настройка системы и сдача первой задачи",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": -5740,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "a27f5460abb77f31",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Начальный текст.md",
+      "x": -5720,
+      "y": -610,
+      "width": 313,
+      "height": 580
+    },
+    {
+      "id": "problem_cmake",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Проблемы/CMake read-only.md",
+      "x": -5359,
+      "y": 75,
+      "width": 166,
+      "height": 230,
+      "color": "1"
+    },
+    {
+      "id": "problem_repo",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Проблемы/Make sure repository exists.md",
+      "x": -5245,
+      "y": 405,
+      "width": 166,
+      "height": 230,
+      "color": "1"
+    },
+    {
+      "id": "task_raii_file",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/RAII-FILE.md",
+      "x": -1073,
+      "y": 518,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "task_range",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Range.md",
+      "subpath": "#一",
+      "x": -1873,
+      "y": 105,
+      "width": 166,
+      "height": 230,
+      "color": "4"
+    },
+    {
+      "id": "4fa27ebf226c7351",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Range.md",
+      "subpath": "#二",
+      "x": -1873,
+      "y": 443,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "task_defer",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/defer.md",
+      "x": -1873,
+      "y": 814,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "topic_memory",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Память и RAII.md",
+      "x": -1320,
+      "y": -610,
+      "width": 660,
+      "height": 580
+    },
+    {
+      "id": "fast06",
+      "type": "text",
+      "text": "Важно все. При этом shared_ptr достаточно в теории",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": -1340,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "8d10e6c0b52a9eed",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 2227,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "ae7aeb661d75591d",
+      "type": "text",
+      "text": "# Семинар 10\nMove-семантика",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": 2227,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "topic_copy",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Конструкторы и операторы.md",
+      "x": 2247,
+      "y": -610,
+      "width": 635,
+      "height": 580
+    },
+    {
+      "id": "1962afd42543f014",
+      "type": "text",
+      "text": "Читать аргументы из файлов и писать туда результаты задач",
+      "x": 1727,
+      "y": 132,
+      "width": 166,
+      "height": 230
+    },
+    {
+      "id": "46174e91e990e53c",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/VectorInt.md",
+      "subpath": "#RAII",
+      "x": -858,
+      "y": 105,
+      "width": 166,
+      "height": 230,
+      "color": "4"
+    },
+    {
+      "id": "task_raii_profile",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/RAII-profile.md",
+      "x": -1074,
+      "y": 105,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "task_static_class",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Сконструировать класс статическими методами.md",
+      "x": -1293,
+      "y": 106,
+      "width": 166,
+      "height": 229,
+      "color": "6"
+    },
+    {
+      "id": "fast09",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 1460,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "h09",
+      "type": "text",
+      "text": "# Семинар 9\nКлассы (продолжение) + исключения",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": 1460,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "6919a058ca5fef1e",
+      "type": "text",
+      "text": "Добавить свои типы исключений в дерево классов с прошлых семинаров",
+      "styleAttributes": {},
+      "x": 1964,
+      "y": 133,
+      "width": 166,
+      "height": 230
+    },
+    {
+      "id": "topic_exceptions",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Исключения.md",
+      "x": 1948,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "topic_files",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Файлы.md",
+      "x": 1712,
+      "y": -610,
+      "width": 196,
+      "height": 580
+    },
+    {
+      "id": "fast08",
+      "type": "text",
+      "text": "- Важно: Strategy, Factory, пайплайн и ответственность компонентов\n- Можно: Composite и Visitor — опционально\n- Про разбиение на файл просто применение показать (без деталей)",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 460,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "topic_project",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Проект (структура).md",
+      "x": 480,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "6ba45e61c97c62a0",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Наследование (до динамического).md",
+      "x": -318,
+      "y": -610,
+      "width": 313,
+      "height": 580
+    },
+    {
+      "id": "abc0f633a494a989",
+      "type": "text",
+      "text": "Тут полезнее всего реализовать систему классов, где несколько уровней и множество на одном уровне. В прошлый раз делали БравлСтарс и Олимпиаду\nhttps://godbolt.org/z/qq7P19nxM\nhttps://godbolt.org/z/5TfW6Kx31",
+      "styleAttributes": {},
+      "x": -288,
+      "y": 132,
+      "width": 253,
+      "height": 311
+    },
+    {
+      "id": "bd5a9966be041ab4",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Наследование (динамический).md",
+      "x": 33,
+      "y": -610,
+      "width": 310,
+      "height": 580
+    },
+    {
+      "id": "note_inherit_virtual",
+      "type": "text",
+      "text": "Дополняем структуру классов виртуальностью",
+      "x": 74,
+      "y": 132,
+      "width": 253,
+      "height": 311
+    },
+    {
+      "id": "0c9bcf50f25ba8e8",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Умные указатели.md",
+      "x": 712,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "task_unique_memory",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/UniquePtrInt.md",
+      "subpath": "#UniquePtrInt",
+      "x": 728,
+      "y": 132,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "sticker_hw1",
+      "type": "text",
+      "text": "Можно выдать первое ДЗ",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -2398,
+      "y": -1067,
+      "width": 198,
+      "height": 2461,
+      "color": "4"
+    },
+    {
+      "id": "h08",
+      "type": "text",
+      "text": "# Семинар 8\nАрхитектура проекта",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": 460,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "fast07",
+      "type": "text",
+      "text": "- Важно все",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": -340,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "h07",
+      "type": "text",
+      "text": "# Семинар 7\nНаследование и динамический полиморфизм",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": -340,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "sticker_project",
+      "type": "text",
+      "text": "Тут можно выдать проект. Основы уже пройдены, минимальный набор будет пройден в ближайшую неделю",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": -600,
+      "y": -1067,
+      "width": 200,
+      "height": 2461,
+      "color": "4"
+    },
+    {
+      "id": "h06",
+      "type": "text",
+      "text": "# Семинар 6\nДинамическая память, RAII и умные указатели",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": -1340,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "h05",
+      "type": "text",
+      "text": "# Семинар 5\nКлассы",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": -2140,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "topic_classes",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Структуры и классы.md",
+      "x": -2120,
+      "y": -610,
+      "width": 660,
+      "height": 580
+    },
+    {
+      "id": "fast05",
+      "type": "text",
+      "text": "- Тут важно все, для большинства это уже новый материал\n- DoD:\n\t- научились конструировать классы/структуры\n\t- можно начать готовить классы/структуры для проекта",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": -2140,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "5ad6e2d2dc72b6df",
+      "type": "text",
+      "text": "Резервные семинары. На обоих можно затрагивать то, что наиболее интересно. Разные темы, интересные детали языка, мок-собесы, защиты проектов и так далее. Тут просто пример тем",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 5024,
+      "y": -796,
+      "width": 1556,
+      "height": 89,
+      "color": "2"
+    },
+    {
+      "id": "048b21b3ff324d32",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/О чём еще.md",
+      "x": 5880,
+      "y": -610,
+      "width": 660,
+      "height": 580,
+      "color": "3"
+    },
+    {
+      "id": "h13",
+      "type": "text",
+      "text": "# Семинар 13\nРезерв: Тулинг",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": 5060,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "h14",
+      "type": "text",
+      "text": "# Семинар 14\nРезерв:\n- Новые стандарты и другие детали\n- Компиляция, линковка и пространства имён",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": 5860,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "fast10",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 4030,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "19719bf3b7293e4b",
+      "type": "text",
+      "text": "# Семинар 12\nGit и тулинг",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": 4030,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "fast11",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 3260,
+      "y": -815,
+      "width": 700,
+      "height": 150
+    },
+    {
+      "id": "h11",
+      "type": "text",
+      "text": "# Семинар 11\nШаблоны и макросы",
+      "styleAttributes": {
+        "shape": "document"
+      },
+      "x": 3260,
+      "y": -960,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "978189603c65764b",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Разбиение на файлы.md",
+      "x": 945,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "91048224179627a0",
+      "type": "text",
+      "text": "Разбить на файлы структуру классов с прошлого семинара\n",
+      "x": 961,
+      "y": 133,
+      "width": 166,
+      "height": 229
+    },
+    {
+      "id": "topic_patterns",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Проект (паттерны).md",
+      "x": 1472,
+      "y": -610,
+      "width": 197,
+      "height": 580
+    },
+    {
+      "id": "1f3cba6a74baa3b9",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Наследование (dynamic_cast).md",
+      "x": 5880,
+      "y": 53,
+      "width": 197,
+      "height": 580,
+      "color": "3"
+    },
+    {
+      "id": "topic_compilation",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Компиляция.md",
+      "x": 6109,
+      "y": 53,
+      "width": 197,
+      "height": 580,
+      "color": "3"
+    },
+    {
+      "id": "topic_scope",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Области видимости.md",
+      "x": 6340,
+      "y": 53,
+      "width": 197,
+      "height": 580,
+      "color": "3"
+    },
+    {
+      "id": "topic_tool",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Тулинг.md",
+      "x": 5060,
+      "y": -610,
+      "width": 660,
+      "height": 580
+    },
+    {
+      "id": "task_safe_cast2",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/safe_cast.md",
+      "subpath": "#ニ",
+      "x": 4048,
+      "y": 132,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "task_runtime_number",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Пронумеровать классы в рантайме.md",
+      "x": 4214,
+      "y": 400,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "9f66d6bbbc88c1c1",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Макросы.md",
+      "x": 4402,
+      "y": -613,
+      "width": 313,
+      "height": 580
+    },
+    {
+      "id": "topic_templates",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/Шаблоны.md",
+      "x": 4049,
+      "y": -613,
+      "width": 313,
+      "height": 580
+    },
+    {
+      "id": "2ac0a425501a1c1c",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Темы/move.md",
+      "x": 3283,
+      "y": -613,
+      "width": 652,
+      "height": 580
+    },
+    {
+      "id": "76345870da8b692a",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/UniquePtrInt.md",
+      "subpath": "#Rule-of-5",
+      "x": 3724,
+      "y": 339,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "9af463bcdd661ed7",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/VectorInt.md",
+      "subpath": "#Rule-of-5",
+      "x": 3335,
+      "y": 132,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "task_matrix",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/MatrixInt.md",
+      "x": 2673,
+      "y": 944,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "task_vector_copy",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/VectorInt.md",
+      "subpath": "#Rule-of-3",
+      "x": 2673,
+      "y": 170,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "7727eb395b17bad9",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Свой linked list или stack с методами push_front и pop_front.md",
+      "x": 2673,
+      "y": 569,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "0f9dff1149e7e801",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/Range.md",
+      "subpath": "#三",
+      "x": 2305,
+      "y": 132,
+      "width": 166,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "35b0a2f840ee0a35",
+      "type": "file",
+      "file": "cpp-fall-20260922/materials/🏫/HSE/C++/Задачи/UniquePtrInt.md",
+      "subpath": "#Rule-of-3",
+      "x": 2305,
+      "y": 442,
+      "width": 166,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "a441027ff124db09",
+      "type": "text",
+      "text": "Можно выдать второе ДЗ",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 3000,
+      "y": -1067,
+      "width": 200,
+      "height": 2461,
+      "color": "4"
+    },
+    {
+      "id": "cd349b3dcb9704a7",
+      "type": "text",
+      "text": "Применить Factory и Strategy для создания и применения фильтра",
+      "styleAttributes": {},
+      "x": 1488,
+      "y": 132,
+      "width": 166,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_env_problem",
+      "toFloating": false,
+      "fromNode": "topic_env",
+      "fromSide": "bottom",
+      "toNode": "problem_cmake",
+      "toSide": "top"
+    },
+    {
+      "id": "e_tool_problem",
+      "fromFloating": false,
+      "fromNode": "topic_env",
+      "fromSide": "bottom",
+      "toNode": "problem_repo",
+      "toSide": "top"
+    },
+    {
+      "id": "e9df58668a4bd41e",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "topic_int",
+      "fromSide": "bottom",
+      "toNode": "task_cycle",
+      "toSide": "top"
+    },
+    {
+      "id": "0f9323f6dbe9c162",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "task_cycle",
+      "fromSide": "bottom",
+      "toNode": "task_overflow",
+      "toSide": "top"
+    },
+    {
+      "id": "5cde9f403c92f629",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "task_overflow",
+      "fromSide": "bottom",
+      "toNode": "task_safe_cast1",
+      "toSide": "top"
+    },
+    {
+      "id": "3cb0716c35b798bd",
+      "fromNode": "topic_func",
+      "fromSide": "bottom",
+      "toNode": "task_brackets",
+      "toSide": "top"
+    },
+    {
+      "id": "5624fa3508638a43",
+      "fromNode": "task_brackets",
+      "fromSide": "bottom",
+      "toNode": "task_cache",
+      "toSide": "top"
+    },
+    {
+      "id": "97c12c7d6a26518e",
+      "fromNode": "topic_ptr",
+      "fromSide": "bottom",
+      "toNode": "task_shift",
+      "toSide": "top"
+    },
+    {
+      "id": "4bbe1e4eb0b1f050",
+      "fromNode": "task_shift",
+      "fromSide": "bottom",
+      "toNode": "note_matrix",
+      "toSide": "top"
+    },
+    {
+      "id": "8e4807fed82016cf",
+      "fromFloating": false,
+      "fromNode": "topic_strings",
+      "fromSide": "bottom",
+      "toNode": "task_split",
+      "toSide": "top"
+    },
+    {
+      "id": "1c07cb5d02ec2a7c",
+      "fromFloating": false,
+      "fromNode": "topic_memory",
+      "fromSide": "bottom",
+      "toNode": "task_static_class",
+      "toSide": "top"
+    },
+    {
+      "id": "82f69281b13e3c8f",
+      "fromNode": "topic_classes",
+      "fromSide": "bottom",
+      "toNode": "task_range",
+      "toSide": "top"
+    },
+    {
+      "id": "cb244c068aea4e72",
+      "fromNode": "topic_templates",
+      "fromSide": "bottom",
+      "toNode": "task_safe_cast2",
+      "toSide": "top"
+    },
+    {
+      "id": "df8f91d4a5d69ff4",
+      "fromNode": "topic_templates",
+      "fromSide": "bottom",
+      "toNode": "task_runtime_number",
+      "toSide": "top"
+    },
+    {
+      "id": "6b6088c60caa38ef",
+      "fromNode": "topic_containers",
+      "fromSide": "bottom",
+      "toNode": "task_custom_hash",
+      "toSide": "top"
+    },
+    {
+      "id": "a3b30741e9ab9e69",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "6ba45e61c97c62a0",
+      "fromSide": "bottom",
+      "toNode": "abc0f633a494a989",
+      "toSide": "top"
+    },
+    {
+      "id": "ef8aa0af24405edc",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "bd5a9966be041ab4",
+      "fromSide": "bottom",
+      "toNode": "note_inherit_virtual",
+      "toSide": "top"
+    },
+    {
+      "id": "de2b6aca21160dbf",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "7727eb395b17bad9",
+      "fromSide": "bottom",
+      "toNode": "task_matrix",
+      "toSide": "top"
+    },
+    {
+      "id": "1747ceb2d904197d",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "topic_exceptions",
+      "fromSide": "bottom",
+      "toNode": "6919a058ca5fef1e",
+      "toSide": "top"
+    },
+    {
+      "id": "152912bd99935f88",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "978189603c65764b",
+      "fromSide": "bottom",
+      "toNode": "91048224179627a0",
+      "toSide": "top"
+    },
+    {
+      "id": "701ce91e0f0bbdbe",
+      "toFloating": false,
+      "fromNode": "topic_copy",
+      "fromSide": "bottom",
+      "toNode": "task_vector_copy",
+      "toSide": "top"
+    },
+    {
+      "id": "eeec48d0743a0b4f",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "task_vector_copy",
+      "fromSide": "bottom",
+      "toNode": "7727eb395b17bad9",
+      "toSide": "top"
+    },
+    {
+      "id": "5c5b94df54c00ffa",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "eed5c2c0c8176005",
+      "fromSide": "bottom",
+      "toNode": "task_swap",
+      "toSide": "top"
+    },
+    {
+      "id": "a8bd2c8b4d99e8db",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "task_swap",
+      "fromSide": "bottom",
+      "toNode": "task_popcnt",
+      "toSide": "top"
+    },
+    {
+      "id": "85f3e73d06d81340",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromFloating": false,
+      "fromNode": "topic_files",
+      "fromSide": "bottom",
+      "toNode": "1962afd42543f014",
+      "toSide": "top"
+    },
+    {
+      "id": "05e5755db7032a89",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "task_split",
+      "fromSide": "bottom",
+      "toNode": "70faa576377b862d",
+      "toSide": "top"
+    },
+    {
+      "id": "5c7fe519bb45b345",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "70faa576377b862d",
+      "fromSide": "bottom",
+      "toNode": "task_utf",
+      "toSide": "top"
+    },
+    {
+      "id": "a8ec956e935ddc42",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "task_range",
+      "fromSide": "bottom",
+      "toNode": "4fa27ebf226c7351",
+      "toSide": "top"
+    },
+    {
+      "id": "44bcea95e39531af",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "topic_memory",
+      "fromSide": "bottom",
+      "toNode": "task_raii_profile",
+      "toSide": "top"
+    },
+    {
+      "id": "60e27edf7803e915",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "task_raii_profile",
+      "fromSide": "bottom",
+      "toNode": "task_raii_file",
+      "toSide": "top"
+    },
+    {
+      "id": "796511d77d717576",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "topic_memory",
+      "fromSide": "bottom",
+      "toNode": "46174e91e990e53c",
+      "toSide": "top"
+    },
+    {
+      "id": "ef689351f745960e",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "2ac0a425501a1c1c",
+      "fromSide": "bottom",
+      "toNode": "9af463bcdd661ed7",
+      "toSide": "top"
+    },
+    {
+      "id": "a33707133bd30b97",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "topic_copy",
+      "fromSide": "bottom",
+      "toNode": "0f9dff1149e7e801",
+      "toSide": "top"
+    },
+    {
+      "id": "e4151904ca33f3e6",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "2ac0a425501a1c1c",
+      "fromSide": "bottom",
+      "toNode": "76345870da8b692a",
+      "toSide": "top"
+    },
+    {
+      "id": "216b4381d76174a9",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "0f9dff1149e7e801",
+      "fromSide": "bottom",
+      "toNode": "35b0a2f840ee0a35",
+      "toSide": "top"
+    },
+    {
+      "id": "03009f1606a3217f",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "0c9bcf50f25ba8e8",
+      "fromSide": "bottom",
+      "toNode": "task_unique_memory",
+      "toSide": "top"
+    },
+    {
+      "id": "54d944dddc66ad9a",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "4fa27ebf226c7351",
+      "fromSide": "bottom",
+      "toNode": "task_defer",
+      "toSide": "top"
+    },
+    {
+      "id": "72c8185656d4c00e",
+      "styleAttributes": {},
+      "toFloating": false,
+      "fromNode": "topic_patterns",
+      "fromSide": "bottom",
+      "toNode": "cd349b3dcb9704a7",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "version": "1.0-1.0",
+    "frontmatter": {}
+  }
+}
